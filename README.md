@@ -44,3 +44,6 @@ rating to the target item. Despite the simplicity of this model, the effectivene
 surprisingly high. Though it was predominantly designed for nuke attacks, it can
 also be used for a push attack by altering the ratings. Push attack is not as effective
 as a nuke attack.
+
+<img width="413" alt="Screenshot 2024-09-17 123246" src="https://github.com/user-attachments/assets/c68e0598-3c37-423d-9d56-1fb659229757">
+
